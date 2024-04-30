@@ -2,7 +2,7 @@
 
 Gadget Shop Project: Backend  
 ============================ 
-
+{ Use Raw option to view Readme file for better indentation }
 
 Backend tools used: Maven,Spring Boot,Mysql,Docker for containerizing application, Aws for deployment ,SpringFox and Swagger For api doccumnetation
 
